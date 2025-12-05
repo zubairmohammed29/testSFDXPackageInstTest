@@ -11,7 +11,8 @@
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "64.0",
   "packageAliases" : {
-    "testPackageObjecPerm" : "0HoJ1000000k9e2KAA"
+    "testPackageObjecPerm" : "0HoJ1000000k9e2KAA",
+    "testPackageObjecPerm@1.0.0.0" : "04tJ1000000gS2DIAU"
   },
   "name" : "src"
 }
