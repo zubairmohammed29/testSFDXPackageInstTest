@@ -34,7 +34,8 @@
     "testPackage@1.1.0.0" : "04tJ1000000gS1tIAE",
     "testPackage@1.2.0.0" : "04tJ1000000gS1yIAE",
     "testPackagePermSetProf" : "0HoJ1000000k9dsKAA",
-    "testPackagePermSetSSO" : "0HoJ1000000k9dxKAA"
+    "testPackagePermSetSSO" : "0HoJ1000000k9dxKAA",
+    "testPackagePermSetSSO@1.2.0.0" : "04tJ1000000gS23IAE"
   },
   "name" : "src"
 }
