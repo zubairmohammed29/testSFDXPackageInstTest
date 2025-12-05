@@ -1,10 +1,17 @@
 {
   "packageDirectories" : [ {
     "path" : "force-app",
-    "default" : true
+    "default" : true,
+    "package" : "testPackageObjecPerm",
+    "scopeProfiles" : "false",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "64.0",
+  "packageAliases" : {
+    "testPackageObjecPerm" : "0HoJ1000000k9e2KAA"
+  },
   "name" : "src"
 }
