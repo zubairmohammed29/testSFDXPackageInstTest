@@ -6,6 +6,17 @@
     "scopeProfiles" : "false",
     "versionName" : "ver 0.1",
     "versionNumber" : "0.1.0.NEXT"
+  }, {
+    "path" : "force-app",
+    "default" : false,
+    "package" : "testPackagePermSetProf",
+    "scopeProfiles" : "true",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT",
+    "dependencies" : [ {
+      "package" : "testPackage",
+      "versionNumber" : "1.2.0.0"
+    } ]
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
@@ -14,7 +25,8 @@
     "testPackage" : "0HoJ1000000k9dnKAA",
     "testPackage@1.0.0.0" : "04tJ1000000gS1oIAE",
     "testPackage@1.1.0.0" : "04tJ1000000gS1tIAE",
-    "testPackage@1.2.0.0" : "04tJ1000000gS1yIAE"
+    "testPackage@1.2.0.0" : "04tJ1000000gS1yIAE",
+    "testPackagePermSetProf" : "0HoJ1000000k9dsKAA"
   },
   "name" : "src"
 }
