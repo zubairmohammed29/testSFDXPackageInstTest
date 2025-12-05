@@ -12,7 +12,8 @@
   "sourceApiVersion" : "64.0",
   "packageAliases" : {
     "testPackage" : "0HoJ1000000k9dnKAA",
-    "testPackage@1.0.0.0" : "04tJ1000000gS1oIAE"
+    "testPackage@1.0.0.0" : "04tJ1000000gS1oIAE",
+    "testPackage@1.1.0.0" : "04tJ1000000gS1tIAE"
   },
   "name" : "src"
 }
